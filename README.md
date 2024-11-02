@@ -1,0 +1,1 @@
+# proyecto-algoritmos-paralelos---solucion-paralela-en-CUDA-del-rompecabezas-de-futoshiki
